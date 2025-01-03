@@ -75,7 +75,7 @@ Welcome to the Lessons Website Dashboard! This platform is designed to simplify 
 - **Scalability**: Perfect for small classes or large educational institutions.
 
 ## Support
-If you encounter any issues or have questions, please contact our support team at [support@example.com].
+If you encounter any issues or have questions, please contact our support team at our website.
 
 Thank you for using the Lessons Website Dashboard to enhance your teaching experience!
 
