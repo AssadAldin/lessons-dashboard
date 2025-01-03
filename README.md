@@ -1,4 +1,4 @@
-# Lessons education website | lessons dashboard
+# Lessons Website Dashboard
 
 Welcome to the Lessons Website Dashboard! This platform is designed to simplify the process of creating, managing, and sharing educational content. Whether you're a teacher, instructor, or administrator, this dashboard provides you with powerful tools to create and manage lessons effortlessly.
 
@@ -48,6 +48,14 @@ Welcome to the Lessons Website Dashboard! This platform is designed to simplify 
    - Update your profile and account settings.
    - Configure notification preferences.
 
+## Technology Stack
+
+This project is built using the following technologies:
+- **Frontend**: Next.js for both the dashboard and the website.
+- **Backend**: Laravel for API and backend logic.
+- **Styling**: Tailwind CSS for a responsive and modern user interface.
+- **Database**: MySQL for reliable data storage and management.
+
 ## Getting Started
 
 1. **Login**:
@@ -82,8 +90,6 @@ Thank you for using the Lessons Website Dashboard to enhance your teaching exper
 
 ## Installation
 Here are the steps you need to follow to install the dependencies.
-
-1. Download and extract the template from Next.js Templates.
 
 2. After that **cd** into the template directory then run this command to install all the dependencies
 
