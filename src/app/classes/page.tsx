@@ -1,5 +1,6 @@
 import Breadcrumb from "@/components/Breadcrumbs/Breadcrumb";
 import DefaultLayout from "@/components/Layouts/DefaultLayout";
+import ClassesTable from "@/components/LessonClasse/ClassesTable";
 import { Metadata } from "next";
 import React from "react";
 
@@ -10,13 +11,10 @@ export const metadata: Metadata = {
 
 function page() {
   return (
-    <div>
-      <DefaultLayout>
-        <div className="mx-auto max-w-7xl">
-          <Breadcrumb pageName="Classes" />
-        </div>
-      </DefaultLayout>
-    </div>
+    <DefaultLayout>
+      <Breadcrumb pageName="Classes" />
+      <ClassesTable />
+    </DefaultLayout>
   );
 }
 
